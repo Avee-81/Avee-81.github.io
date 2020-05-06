@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Download Avi Chawla's CV [here](https://drive.google.com/file/d/131N9r5_YwhqpTnyFzY8T-S6QTpDpd9w8/view?usp=sharing).
+Download Avi Chawla's CV [here](https://drive.google.com/file/d/1Wv3ZPzc2InpKrsPJQwDspWFlPGI66kK-/view?usp=sharing).
