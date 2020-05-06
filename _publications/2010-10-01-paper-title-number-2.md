@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "IIT (BHU) Varanasi at MSR-SRST 2018: A Language Model Based Approach for Natural Language Generation"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/P3
+excerpt: 
+date: 2018-07-20
+venue: 'MSR-SRST at ACL'
+
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://www.aclweb.org/anthology/W18-3603)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Avi Chawla, Ayush Sharma, Shreyansh Singh and A.K. Singh. "IIT (BHU) Varanasi at MSR-SRST 2018: A Language Model Based Approach for Natural Language Generation." In proceedings of the 1st Workshop on Multilingual Surface Realisation(MSR) at 56th Annual Meeting of the Association for Computational Linguistics(ACL). 2018.
+
+[[Code]](https://github.com/Avee-81/Surface-Realisation-Task-18)
