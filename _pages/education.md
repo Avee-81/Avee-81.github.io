@@ -14,7 +14,7 @@ redirect_from:
 ## B.Tech in Computer Science and Engineering (with Honors in AI) 
 Indian Institute of Technology (BHU) Varanasi 
 
-GPA: 9.10
+GPA: 9.14
 <br />
 <br />
 <br />
