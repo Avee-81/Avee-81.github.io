@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Avi Chawla, a Senior Undergraduate persuing B.Tech(Hons in AI) in [**Computer Science and Engineering**](https://www.iitbhu.ac.in/dept/cse) from the [**Indian Institute of Technology (BHU) Varanasi**](https://www.iitbhu.ac.in/).
+I am Avi Chawla, an Associate Analyst at Mastercard AI Garage. I completed by B.Tech(Hons in AI) in [**Computer Science and Engineering**](https://www.iitbhu.ac.in/dept/cse) from the [**Indian Institute of Technology (BHU) Varanasi**](https://www.iitbhu.ac.in/) in 2020.
 Having explored quiet a few domains of Computer Science, I have developed a profound interest in Deep Learning and its various applications, especially in Data-Driven Natural Language Processing(NLP) Research. 
 
 My undergraduate advisor at IIT (BHU) Varanasi is [Dr. Anil Kumar Singh](https://www.iitbhu.ac.in/dept/cse/people/aksinghcse) with whom I have explored Sentiment Anaysis, Natural Language Generation and a bunch of other topics as a member of the [NLPRL](http://nlprl.iitbhu.ac.in/) Group. 
@@ -26,6 +26,11 @@ I am really lucky to have interacted and worked with many amazing people on extr
 I grew up in [Gurugram](https://en.wikipedia.org/wiki/Gurgaon), India.
 
 ## **LATEST**
+
+
+**Aug 2020:** Starting my first job as an Associate Analyst at Mastercard AI Garage.
+
+**May 2020:** Graduated.
 
 **Feb 2020:** Starting to work as a Tutor for Artificial Intelligence course offered to Sophomores of the CSE Department of IIT(BHU) Varanasi.
 
